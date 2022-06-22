@@ -20,5 +20,7 @@ public class GitTest {
 
         System.out.println("hotfixxxxxx!");
 
+        System.out.println("hxxxixxxxxx!");
+
     }
 }
